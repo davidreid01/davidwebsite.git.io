@@ -1,0 +1,22 @@
+.title {
+  background-image: '100_7888.jpg';
+  border: 3px solid #ffffff;
+  font-family: 'Shift', sans-serif;
+  font-size: 48px;
+  color: green;
+}
+
+.heading {
+  background-color: #00ff00;
+  color: red;
+  width: 500px;
+}
+.heading:hover {
+  background-color: #cccccc;
+  color: red;
+}
+
+.image1 {
+  width: 100px;
+  left: 20px;
+}
